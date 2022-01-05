@@ -1,4 +1,4 @@
-## async JavaScript app
+## Async JavaScript
 
 Indeed dot com web-scraper of jobs, salaries as well as keywords contained within detailed job posts.
 
