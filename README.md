@@ -1,6 +1,6 @@
 # async JavaScript app
 
-// source code available upon request //
+## source code available upon request 
 
 indeed dot com web-scraper of jobs, salaries as well as keywords contained within detailed job posts.
 
