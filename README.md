@@ -1,6 +1,6 @@
-# closed-source-scraper
+# source code available upon request
 
-async JavaScript app using puppeteer.JS
+# async JavaScript app
 
 indeed dot com web-scraper of jobs, salaries as well as keywords contained within detailed job posts.
 
