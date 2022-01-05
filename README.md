@@ -2,7 +2,7 @@
 
 Indeed dot com web-scraper of jobs, salaries as well as keywords contained within detailed job posts.
 
-__source code available upon request__
+_source code available upon request_
 
 ## Description
 This web-scraper was made for people who would like to find a job in an industry or location which returns a particularly high amount of jobs.
