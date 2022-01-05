@@ -14,5 +14,5 @@ The most accurately defined query possible for a truck driver job in Chicago, IL
 - Async JavaScript - scraping
 - Javascript - sorting & keyword matching
 - Node - data storing into JSON
-- 
+
 **source code available upon request**
