@@ -1,6 +1,7 @@
 # Web Scraper for Job Search Refinement
 
 Indeed dot com web-scraper of jobs, salaries as well as keywords contained within detailed job posts.
+
 **source code available upon request**
 
 ## Description
