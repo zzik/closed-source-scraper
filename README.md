@@ -5,4 +5,4 @@ indeed dot com web-scraper of jobs, salaries as well as keywords contained withi
 the app is made of:
 main scraper and sorting logic for trucker jobs
 
-## source code available upon request
+**source code available upon request**
